@@ -1,19 +1,22 @@
 ## Alfresco ADF automation QA exercise
 
 Do you love automation testing and you know how to solve the following exercise? Contact us! We may have a job for you :)
-* https://jobs.smartrecruiters.com/Alfresco/743999676099136-senior-qa-automation-engineer
+
+- https://jobs.smartrecruiters.com/Alfresco/743999676099136-senior-qa-automation-engineer
 
 ## Exercise
 
-Fork this GitHub repository and push the produced code in your fork repository. 
+Fork this GitHub repository and push the produced code in your fork repository.
 
 Automate the following scenario using protractor:
 
 1. Access <https://j1hp01s5.trials.alfresco.com/>
 2. Enter
+
 - username: guest@example.com
 - password: Password
 - click SIGN IN
+
 3. Click on NEW -> Create Folder
 4. Create new folder dialog is displayed.
 5. Enter your Github username.
@@ -36,19 +39,22 @@ Automate the following scenario using protractor:
 
 In the README file of the repository we want to see also the following sections:
 
-1. ***Description*** Describes of how to run the automation test
-2. ***Explanation*** Describes the choice made in the solution
-3. ***Prerequisites*** List here what/if anything needs to be installed
+1. **_Description_** Describes of how to run the automation test
+2. **_Explanation_** Describes the choice made in the solution
+3. **_Prerequisites_** List here what/if anything needs to be installed
 
 You can send the link to your fork at mario.romano@alfresco.com. Feel free to attach also your cv and a link to your linkedin profile.
 
 ### Starter
-The framework has already been setup in the /starter folder, please add your teest case in the spec.js file.
+
+The framework has already been setup in the /starter folder, please add your test case in the spec.js file.
 
 ### Some info about protractor
-* https://github.com/angular/protractor
-* https://blog.cloudboost.io/building-your-first-tests-for-angular5-with-protractor-a48dfc225a75
+
+- https://github.com/angular/protractor
+- https://blog.cloudboost.io/building-your-first-tests-for-angular5-with-protractor-a48dfc225a75
 
 ### Some info about ADF
-* https://github.com/Alfresco/alfresco-ng2-components
-* https://alfresco.github.io/adf-component-catalog/
+
+- https://github.com/Alfresco/alfresco-ng2-components
+- https://alfresco.github.io/adf-component-catalog/
